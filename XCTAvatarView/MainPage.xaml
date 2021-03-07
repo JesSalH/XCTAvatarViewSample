@@ -10,8 +10,8 @@
         </Frame>
 
         <StackLayout Orientation="Horizontal">
-        <xct:AvatarView Text="GV" Source="https://gerald.verslu.is/wp-content/uploads/2018/04/fd3d1oqb_400x400.jpg_brokenlink" Size="100" Margin="10,10" HorizontalOptions="Start" />
-            <Label Text="Gerald Versluis" FontSize="Title" VerticalOptions="CenterAndExpand" />
+        <xct:AvatarView Text="JS" Color="red" Size="100" Margin="10,10" HorizontalOptions="Start" />
+            <Label Text="Jesús Salas" FontSize="Title" VerticalOptions="CenterAndExpand" />
         </StackLayout>
     </StackLayout>
 
